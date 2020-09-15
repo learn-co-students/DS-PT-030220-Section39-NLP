@@ -1,17 +1,20 @@
-# Data Science Lesson Resources
+# Section 39: Natural Language Processing
 
-This repository acts as a central hub of all of my personal resources to teach Flatiron School's Online Data Science Curriculum V2.1. 
+A practice notebook to discuss different ways to prepare text/language data for machine learning. Contains plenty of resources to act as a jumping off point for anyone interested in working with text/language data.
 
-I will likely be adapting content created by other Flatiron School instructors, repurposing other repos and notebooks, and collecting whatever other resources I find, then pushing them here to assemble all of my changes made for the purpose of teaching the curriculum to online students.
+Learning Objectives:
 
-For more information or with questions about the curriculum, ask [The Flatiron School](http://flatironschool.com/).
+- Define what types of data are considered "natural language" data
+- Discuss the pros and cons of some pre-processing steps often used with natural language data (removing stopwords, for example)
+- Extract features suitable for machine learning from text data
+- Use a supervised classifier to classify texts after appropriate pre-processing
 
-## [Phase 1](https://github.com/lindseyberlin/ds-lesson-hub/tree/master/Phase1)
+Prepared for the DS-PT-030220 Cohort, with <3 by Lindsey Berlin
 
-## [Phase 2](https://github.com/lindseyberlin/ds-lesson-hub/tree/master/Phase2)
+## To Use:
 
-## [Phase 3](https://github.com/lindseyberlin/ds-lesson-hub/tree/master/Phase3)
+- Fork this repository, to make a copy on your own GitHub
+- Clone this repository onto your local machine
+- Follow along either during the Study Group, or while watching the recording!
 
-## [Phase 4](https://github.com/lindseyberlin/ds-lesson-hub/tree/master/Phase4)
-
-## [Et Cetera](https://github.com/lindseyberlin/ds-lesson-hub/tree/master/EtCetera)
+![you ready gif from giphy](https://media.giphy.com/media/c9eb2nWV1AiJ2/giphy.gif)
